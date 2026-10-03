@@ -3,7 +3,9 @@ Created a realistic synthetic dataset simulating customer orders and demographic
 
 Features:
 1. Customer information with applied random noise.
-2. Random timestamps based on peak business hours
+2. Random timestamps based on peak business hours.
 3. Holiday and special day spikes.
 4. Menu Item preference based on order time and customer age probability.
-5. Random multiple customer orders
+5. Random multiple customer orders.
+6. 4 years of data from 2022 to end of 2025.
+
